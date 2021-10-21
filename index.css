@@ -1,0 +1,49 @@
+
+div.neil {
+ border:2px solid rgb(143, 145, 172);
+border-width: 3px;
+background-color: rgb(143, 145, 172);
+size: 30px;
+margin-top:  -44px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+img.ha{ 
+margin-top: 19px;
+width: 60%;
+margin-left: 32PX;
+}
+div.ph{ 
+
+background-color:rgb(173, 175, 201) ;
+padding: 5%;
+font: 500px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+li.hamid
+{
+    padding-top: 10px;
+
+
+}
+ul{
+    width: 66%;
+    margin: auto;
+    font-family: sans-serif;
+}
+div.ui{
+background-color:rgb(253, 249, 249)
+ ;
+}
+p.quote{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: italic;
+margin-top: 33px;
+margin-bottom: 30PX;
+}
+a.div{
+font-style: italic;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
